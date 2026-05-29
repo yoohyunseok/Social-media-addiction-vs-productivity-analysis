@@ -55,7 +55,7 @@ This project successfully demonstrates the utility of machine learning in uncove
 * **Machine Learning:** Scikit-learn
 
 ## 📂 Repository Structure
-* `dataset/` : Contains the raw datasets.
+* `dataset/` : Contains the raw datasets.(https://www.kaggle.com/datasets/asifxzaman/social-media-addiction-vs-productivity-dataset)
 * `notebooks/` : Jupyter notebooks with detailed EDA and modeling steps.
 * `report/` : Jupyter notebook with model evaluation and key insights report.
 * `README.md` : Project documentation.
